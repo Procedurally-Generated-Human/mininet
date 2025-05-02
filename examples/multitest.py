@@ -2,7 +2,6 @@
 
 """
 This example shows how to create a network and run multiple tests.
-For a more complicated test example, see udpbwtest.py.
 """
 
 from mininet.cli import CLI
